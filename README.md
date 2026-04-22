@@ -220,7 +220,7 @@ The PCB is **46.00 mm × 35.00 mm** with a cut-out on the left side (7.00 mm wid
 
 ## Mechanical / Enclosure
 
-![Exploded View](Images/exploded.png)
+![Exploded View](Mechanical/exploded.png)
 
 The enclosure consists of three layers visible in the exploded view:
 
