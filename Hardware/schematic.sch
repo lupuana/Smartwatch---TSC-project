@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
-<layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
-<layer number="3" name="Route3" color="17" fill="1" visible="no" active="no"/>
-<layer number="4" name="Route4" color="18" fill="1" visible="no" active="no"/>
-<layer number="5" name="Route5" color="19" fill="1" visible="no" active="no"/>
-<layer number="6" name="Route6" color="25" fill="1" visible="no" active="no"/>
-<layer number="7" name="Route7" color="26" fill="1" visible="no" active="no"/>
-<layer number="8" name="Route8" color="27" fill="1" visible="no" active="no"/>
-<layer number="9" name="Route9" color="28" fill="1" visible="no" active="no"/>
-<layer number="10" name="Route10" color="29" fill="1" visible="no" active="no"/>
-<layer number="11" name="Route11" color="30" fill="1" visible="no" active="no"/>
-<layer number="12" name="Route12" color="20" fill="1" visible="no" active="no"/>
-<layer number="13" name="Route13" color="21" fill="1" visible="no" active="no"/>
-<layer number="14" name="Route14" color="22" fill="1" visible="no" active="no"/>
-<layer number="15" name="Route15" color="23" fill="1" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
-<layer number="20" name="Dimension" color="24" fill="1" visible="no" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
+<layer number="2" name="Route2" color="16" fill="1" visible="yes" active="no"/>
+<layer number="3" name="Route3" color="17" fill="1" visible="yes" active="no"/>
+<layer number="4" name="Route4" color="18" fill="1" visible="yes" active="no"/>
+<layer number="5" name="Route5" color="19" fill="1" visible="yes" active="no"/>
+<layer number="6" name="Route6" color="25" fill="1" visible="yes" active="no"/>
+<layer number="7" name="Route7" color="26" fill="1" visible="yes" active="no"/>
+<layer number="8" name="Route8" color="27" fill="1" visible="yes" active="no"/>
+<layer number="9" name="Route9" color="28" fill="1" visible="yes" active="no"/>
+<layer number="10" name="Route10" color="29" fill="1" visible="yes" active="no"/>
+<layer number="11" name="Route11" color="30" fill="1" visible="yes" active="no"/>
+<layer number="12" name="Route12" color="20" fill="1" visible="yes" active="no"/>
+<layer number="13" name="Route13" color="21" fill="1" visible="yes" active="no"/>
+<layer number="14" name="Route14" color="22" fill="1" visible="yes" active="no"/>
+<layer number="15" name="Route15" color="23" fill="1" visible="yes" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
+<layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,12 +53,12 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
 <layer number="88" name="SimResults" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
@@ -74,7 +74,7 @@
 </layers>
 <schematic xreflabel="%F%N/%S.%C%R" xrefpart="/%S.%C%R">
 <libraries>
-<library name="InkTime_v5" urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw">
+<library name="InkTime_v5">
 <packages>
 <package name="BQ25180YBGR_BGA8C40P2X4_100X155X50" library_version="1">
 <description>&lt;b&gt;YBG0008&lt;/b&gt;&lt;br&gt;
@@ -3725,6 +3725,24 @@ IPC Nominal Density</description>
 <wire x1="-1.95" y1="0.95" x2="-1.95" y2="-0.95" width="0.1" layer="39"/>
 <wire x1="-1.95" y1="-0.95" x2="1.85" y2="-0.95" width="0.1" layer="39"/>
 </package>
+<package name="PERFECT_0402_0402" library_version="2">
+<description>0402 (1005 Metric)  
+
+Nick Garner - TeleSense</description>
+<wire x1="-0.254" y1="0.219" x2="0.27" y2="0.219" width="0.1524" layer="51"/>
+<wire x1="0.271" y1="-0.229" x2="-0.26" y2="-0.229" width="0.1524" layer="51"/>
+<wire x1="-1" y1="0.483" x2="1" y2="0.483" width="0.0508" layer="39"/>
+<wire x1="1" y1="0.483" x2="1" y2="-0.483" width="0.0508" layer="39"/>
+<wire x1="1" y1="-0.483" x2="-1" y2="-0.483" width="0.0508" layer="39"/>
+<wire x1="-1" y1="-0.483" x2="-1" y2="0.483" width="0.0508" layer="39"/>
+<smd name="1" x="-0.5" y="0" dx="0.6" dy="0.7" layer="1"/>
+<smd name="2" x="0.5" y="0" dx="0.6" dy="0.7" layer="1"/>
+<text x="-0.635" y="0.535" size="0.8128" layer="25" ratio="10">&gt;NAME</text>
+<text x="-0.635" y="-1.405" size="0.8128" layer="27" ratio="10">&gt;VALUE</text>
+<rectangle x1="-0.554" y1="-0.3048" x2="-0.254" y2="0.2951" layer="51"/>
+<rectangle x1="0.2588" y1="-0.3048" x2="0.5588" y2="0.2951" layer="51"/>
+<rectangle x1="-0.1999" y1="-0.3" x2="0.1999" y2="0.3" layer="35"/>
+</package>
 </packages>
 <symbols>
 <symbol name="NORDIC_NRF_3_C-EU" library_version="2">
@@ -3737,9 +3755,22 @@ IPC Nominal Density</description>
 <pin name="1" x="0" y="2.54" visible="off" length="short" direction="pas" swaplevel="1" rot="R270"/>
 <pin name="2" x="0" y="-5.08" visible="off" length="short" direction="pas" swaplevel="1" rot="R90"/>
 </symbol>
+<symbol name="PERFECT_0402_CAP" library_version="1">
+<description>0402 (1005 Metric)  
+
+Nick Garner - TeleSense</description>
+<wire x1="0" y1="5.08" x2="0" y2="4.572" width="0.1524" layer="94"/>
+<wire x1="0" y1="2.54" x2="0" y2="3.048" width="0.1524" layer="94"/>
+<text x="1.524" y="5.461" size="1.778" layer="95">&gt;NAME</text>
+<text x="1.524" y="0.381" size="1.778" layer="96">&gt;VALUE</text>
+<rectangle x1="-2.032" y1="3.048" x2="2.032" y2="3.556" layer="94"/>
+<rectangle x1="-2.032" y1="4.064" x2="2.032" y2="4.572" layer="94"/>
+<pin name="1" x="0" y="7.62" visible="off" length="short" direction="pas" swaplevel="1" rot="R270"/>
+<pin name="2" x="0" y="0" visible="off" length="short" direction="pas" swaplevel="1" rot="R90"/>
+</symbol>
 </symbols>
 <devicesets>
-<deviceset name="NORDIC_NRF_3_CAPACITOR" uservalue="yes" library_version="2">
+<deviceset name="NORDIC_NRF_3_CAPACITOR" uservalue="yes" library_version="6">
 <description>&lt;b&gt;Generic chip capacitor&lt;/b&gt;</description>
 <gates>
 <gate name="C$1" symbol="NORDIC_NRF_3_C-EU" x="0" y="0"/>
@@ -3855,6 +3886,83 @@ IPC Nominal Density</description>
 </device>
 </devices>
 </deviceset>
+<deviceset name="PERFECT_0402_CAP_0402" prefix="C" uservalue="yes" library_version="5">
+<description>0402 (1005 Metric)  
+
+Nick Garner - TeleSense</description>
+<gates>
+<gate name="G$1" symbol="PERFECT_0402_CAP" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="PERFECT_0402_0402">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
+<library name="InkTime_v5" urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ">
+<packages>
+<package name="PERFECT_0402_0402" library_version="2">
+<description>0402 (1005 Metric)  
+
+Nick Garner - TeleSense</description>
+<wire x1="-0.254" y1="0.219" x2="0.27" y2="0.219" width="0.1524" layer="51"/>
+<wire x1="0.271" y1="-0.229" x2="-0.26" y2="-0.229" width="0.1524" layer="51"/>
+<wire x1="-1" y1="0.483" x2="1" y2="0.483" width="0.0508" layer="39"/>
+<wire x1="1" y1="0.483" x2="1" y2="-0.483" width="0.0508" layer="39"/>
+<wire x1="1" y1="-0.483" x2="-1" y2="-0.483" width="0.0508" layer="39"/>
+<wire x1="-1" y1="-0.483" x2="-1" y2="0.483" width="0.0508" layer="39"/>
+<smd name="1" x="-0.5" y="0" dx="0.6" dy="0.7" layer="1"/>
+<smd name="2" x="0.5" y="0" dx="0.6" dy="0.7" layer="1"/>
+<text x="-0.635" y="0.535" size="0.8128" layer="25" ratio="10">&gt;NAME</text>
+<text x="-0.635" y="-1.405" size="0.8128" layer="27" ratio="10">&gt;VALUE</text>
+<rectangle x1="-0.554" y1="-0.3048" x2="-0.254" y2="0.2951" layer="51"/>
+<rectangle x1="0.2588" y1="-0.3048" x2="0.5588" y2="0.2951" layer="51"/>
+<rectangle x1="-0.1999" y1="-0.3" x2="0.1999" y2="0.3" layer="35"/>
+</package>
+</packages>
+<symbols>
+<symbol name="PERFECT_0402_CAP" library_version="1">
+<description>0402 (1005 Metric)  
+
+Nick Garner - TeleSense</description>
+<wire x1="0" y1="5.08" x2="0" y2="4.572" width="0.1524" layer="94"/>
+<wire x1="0" y1="2.54" x2="0" y2="3.048" width="0.1524" layer="94"/>
+<text x="1.524" y="5.461" size="1.778" layer="95">&gt;NAME</text>
+<text x="1.524" y="0.381" size="1.778" layer="96">&gt;VALUE</text>
+<rectangle x1="-2.032" y1="3.048" x2="2.032" y2="3.556" layer="94"/>
+<rectangle x1="-2.032" y1="4.064" x2="2.032" y2="4.572" layer="94"/>
+<pin name="1" x="0" y="7.62" visible="off" length="short" direction="pas" swaplevel="1" rot="R270"/>
+<pin name="2" x="0" y="0" visible="off" length="short" direction="pas" swaplevel="1" rot="R90"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="PERFECT_0402_CAP_0402" prefix="C" uservalue="yes" library_version="1">
+<description>0402 (1005 Metric)  
+
+Nick Garner - TeleSense</description>
+<gates>
+<gate name="G$1" symbol="PERFECT_0402_CAP" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="PERFECT_0402_0402">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
 </devicesets>
 </library>
 </libraries>
@@ -3867,174 +3975,174 @@ IPC Nominal Density</description>
 </class>
 </classes>
 <parts>
-<part name="FRAME1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="FRAMES_A3L-LOC" device=""/>
-<part name="IC1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="BQ25180YBGR_BQ25180YBGR" device="" value="BQ25180YBGR"/>
-<part name="L7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="MLP2016SR47MT0S1_FTC252012SR47MBCA" device="" value="FTC252012SR47MBCA"/>
-<part name="IC9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="RT6160AWSC_RT6160AWSC" device="" value="RT6160AWSC"/>
-<part name="C38" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
-<part name="C37" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
-<part name="R9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
-<part name="SUPPLY1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C23" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="0.1uF"/>
-<part name="SUPPLY6" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY8" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="R4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
-<part name="R2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
-<part name="SUPPLY9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="TP_3V3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="TP_VREG" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="R17" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="3K3"/>
-<part name="R18" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="3K3"/>
-<part name="TP_SCL" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="TP_SDA" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="IC3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="BMA423_BMA423" device="" value="BMA423"/>
-<part name="SUPPLY10" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY11" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="R3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
-<part name="SUPPLY12" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="TP_GND" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="TP_3.3V" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="TP_RESET" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="TP_SWDCLK" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="TP_SWDIO" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="TP_SWO" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="SUPPLY13" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="U1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="NORDIC_NRF_4_NRF52840_QF" device="" value="NRF52840_QF"/>
-<part name="SUPPLY14" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY15" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY16" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="X2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="NORDIC_NRF_1_XTAL_32KHZ" device="" value="32.768kHz"/>
-<part name="SUPPLY17" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY18" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY19" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY20" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="L2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_M" value="10μH"/>
-<part name="L3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_M" value="15nH"/>
-<part name="SUPPLY21" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY22" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY23" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY24" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY25" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY26" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY27" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="L1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_M" value="3.9nH"/>
-<part name="SUPPLY28" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY29" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="ANT1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="2450AT18B100E_2450AT18B100E" device="" value="2450AT18B100E"/>
-<part name="SUPPLY30" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY31" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="X1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="NORDIC_NRF_XTAL_32MHZ" device="" value="32MHz"/>
-<part name="SUPPLY32" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="J2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="TC2030-IDC_TC2030-IDC" device="" value="TC2030-IDC"/>
-<part name="SUPPLY33" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="FRAME2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="FRAMES_A3L-LOC" device=""/>
-<part name="L5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="ESP32_C6_LIBRARY_2_744043680" device="IND_4828-WE-TPC_WRE" value="68uH"/>
-<part name="SUPPLY34" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="D2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
-<part name="D5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
-<part name="D4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
-<part name="SUPPLY35" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="Q3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="ESP32_C6_LIBRARY_6_SI1308EDL-T1-GE3" device="" value="SI1308EDL-T1-GE3"/>
-<part name="R2_EP_DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="ERA-1AEB3401C_CPF0201D7K68C1" device="" value="10K"/>
-<part name="R1_EP_DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="ERA-1AEB3401C_CPF0201D7K68C1" device="" value="0.47"/>
-<part name="SUPPLY36" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="R_TYPE_SEL" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="ERA-1AEB3401C_CPF0201D7K68C1" device="" value="2.2"/>
-<part name="SJ1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="ESP32_C6_LIBRARY_7_JUMPER_SJ" device=""/>
-<part name="SUPPLY37" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY38" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="DMG2305UX-7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="ESP32_C6_LIBRARY_4_ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" device="-DMG2305UX-7" value="20V/4.2A/52mΩ/1.4W"/>
-<part name="R_PWR_EPD" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="ERA-1AEB3401C_CPF0201D7K68C1" device="" value="10K"/>
-<part name="J1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="503480-2400_503480-2400" device="" value="503480-2400"/>
-<part name="SUPPLY39" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY40" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY41" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY42" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="IC2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="DRV2605YZFR_DRV2605YZFR" device="" value="DRV2605YZFR"/>
-<part name="SUPPLY43" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C34" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="0.1uF"/>
-<part name="SUPPLY44" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C32" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
-<part name="SUPPLY45" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY46" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="TP_ON" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="TP_OP" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="R5" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="ERA-1AEB3401C_CPF0201D7K68C1" device="" value="10k"/>
-<part name="R7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="ERA-1AEB3401C_CPF0201D7K68C1" device="" value="10k"/>
-<part name="R8" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="ERA-1AEB3401C_CPF0201D7K68C1" device="" value="10k"/>
-<part name="C30" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
-<part name="C31" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
-<part name="C29" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
-<part name="SW_UP" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
-<part name="SW_ENT" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
-<part name="SW_DN" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
-<part name="SUPPLY47" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY48" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY49" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="U3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="ESP32_C6_LIBRARY_MAX17048G+T10" device="" value="MAX17048G+T10"/>
-<part name="SUPPLY50" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY51" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY52" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY53" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C27" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="0.1uF"/>
-<part name="SUPPLY54" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="TP_BAT_GND" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="TP_VBAT" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="SUPPLY55" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="J4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="KH-TYPE-C-16P_KH-TYPE-C-16P" device="" value="KH-TYPE-C-16P"/>
-<part name="R1_USB" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="ERA-1AEB3401C_CPF0201D7K68C1" device="" value="5K1"/>
-<part name="SUPPLY56" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY57" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="SUPPLY58" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="R2_USB" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="ERA-1AEB3401C_CPF0201D7K68C1" device="" value="5K1"/>
-<part name="SUPPLY59" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="D3" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="ESP32_C6_LIBRARY_3_USBLC6-2SC6Y" device="" value="USBLC6-2SC6Y"/>
-<part name="SUPPLY60" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C42" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="0.1uF"/>
-<part name="SUPPLY61" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
-<part name="C19" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
-<part name="C17" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
-<part name="C18" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
-<part name="C5" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
-<part name="C7" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
-<part name="C8" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
-<part name="C9" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="820pF"/>
-<part name="C3" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="1pF"/>
-<part name="C4" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="1pF"/>
-<part name="C22" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="N.C."/>
-<part name="C2" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
-<part name="C1" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
-<part name="C11" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100pF"/>
-<part name="C10" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="N.C."/>
-<part name="C12" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
-<part name="C13" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="N.C."/>
-<part name="C16" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="47nF"/>
+<part name="FRAME1" library="InkTime_v5" deviceset="FRAMES_A3L-LOC" device=""/>
+<part uuid="0xABCDEF5A" name="IC1" library="InkTime_v5" deviceset="BQ25180YBGR_BQ25180YBGR" device="" value="BQ25180YBGR"/>
+<part uuid="0xABCDEF2C" name="L7" library="InkTime_v5" deviceset="MLP2016SR47MT0S1_FTC252012SR47MBCA" device="" value="FTC252012SR47MBCA"/>
+<part uuid="0xABCDEF2E" name="IC9" library="InkTime_v5" deviceset="RT6160AWSC_RT6160AWSC" device="" value="RT6160AWSC"/>
+<part uuid="0xABCDEF30" name="C38" library="InkTime_v5" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
+<part uuid="0xABCDEF42" name="C37" library="InkTime_v5" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
+<part uuid="0xABCDEF58" name="R9" library="InkTime_v5" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
+<part name="SUPPLY1" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY2" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY3" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY4" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY5" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF94" name="C23" library="InkTime_v5" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="0.1uF"/>
+<part name="SUPPLY6" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY7" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY8" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF54" name="R4" library="InkTime_v5" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
+<part uuid="0xABCDEF56" name="R2" library="InkTime_v5" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
+<part name="SUPPLY9" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="TP_3V3" library="InkTime_v5" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part name="TP_VREG" library="InkTime_v5" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part uuid="0xABCDEF36" name="R17" library="InkTime_v5" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="3K3"/>
+<part uuid="0xABCDEF50" name="R18" library="InkTime_v5" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="3K3"/>
+<part name="TP_SCL" library="InkTime_v5" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part name="TP_SDA" library="InkTime_v5" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part uuid="0xABCDEF28" name="IC3" library="InkTime_v5" deviceset="BMA423_BMA423" device="" value="BMA423"/>
+<part name="SUPPLY10" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY11" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF24" name="R3" library="InkTime_v5" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="0"/>
+<part name="SUPPLY12" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="TP_GND" library="InkTime_v5" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part name="TP_3.3V" library="InkTime_v5" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part name="TP_RESET" library="InkTime_v5" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part name="TP_SWDCLK" library="InkTime_v5" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part name="TP_SWDIO" library="InkTime_v5" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part name="TP_SWO" library="InkTime_v5" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part name="SUPPLY13" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF10" name="U1" library="InkTime_v5" deviceset="NORDIC_NRF_4_NRF52840_QF" device="" value="NRF52840_QF"/>
+<part name="SUPPLY14" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY15" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY16" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF5C" name="X2" library="InkTime_v5" deviceset="NORDIC_NRF_1_XTAL_32KHZ" device="" value="32.768kHz"/>
+<part name="SUPPLY17" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY18" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY19" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY20" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF66" name="L2" library="InkTime_v5" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_M" value="10μH"/>
+<part uuid="0xABCDEF64" name="L3" library="InkTime_v5" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_M" value="15nH"/>
+<part name="SUPPLY21" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY22" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY23" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY24" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY25" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY26" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY27" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF4E" name="L1" library="InkTime_v5" deviceset="NORDIC_NRF_2_INDUCTOR" device="_0402_M" value="3.9nH"/>
+<part name="SUPPLY28" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY29" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF46" name="ANT1" library="InkTime_v5" deviceset="2450AT18B100E_2450AT18B100E" device="" value="2450AT18B100E"/>
+<part name="SUPPLY30" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY31" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF4C" name="X1" library="InkTime_v5" deviceset="NORDIC_NRF_XTAL_32MHZ" device="" value="32MHz"/>
+<part name="SUPPLY32" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF34" name="J2" library="InkTime_v5" deviceset="TC2030-IDC_TC2030-IDC" device="" value="TC2030-IDC"/>
+<part name="SUPPLY33" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="FRAME2" library="InkTime_v5" deviceset="FRAMES_A3L-LOC" device=""/>
+<part uuid="0xABCDEF18" name="L5" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_2_744043680" device="IND_4828-WE-TPC_WRE" value="68uH"/>
+<part name="SUPPLY34" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF20" name="D2" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
+<part uuid="0xABCDEF22" name="D5" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
+<part uuid="0xABCDEF26" name="D4" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_5_MBR0530" device="" value="MBR0530"/>
+<part name="SUPPLY35" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF52" name="Q3" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_6_SI1308EDL-T1-GE3" device="" value="SI1308EDL-T1-GE3"/>
+<part name="R2_EP_DR" library="InkTime_v5" deviceset="ERA-1AEB3401C_CPF0201D7K68C1" device="" value="10K"/>
+<part uuid="0xABCDEF92" name="R1_EP_DR" library="InkTime_v5" deviceset="ERA-1AEB3401C_CPF0201D7K68C1" device="" value="0.47"/>
+<part name="SUPPLY36" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF90" name="R_TYPE_SEL" library="InkTime_v5" deviceset="ERA-1AEB3401C_CPF0201D7K68C1" device="" value="2.2"/>
+<part name="SJ1" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_7_JUMPER_SJ" device=""/>
+<part name="SUPPLY37" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY38" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF1E" name="DMG2305UX-7" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_4_ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" device="-DMG2305UX-7" value="20V/4.2A/52mΩ/1.4W"/>
+<part uuid="0xABCDEF00" name="R_PWR_EPD" library="InkTime_v5" deviceset="ERA-1AEB3401C_CPF0201D7K68C1" device="" value="10K"/>
+<part uuid="0xABCDEF2A" name="J1" library="InkTime_v5" deviceset="503480-2400_503480-2400" device="" value="503480-2400"/>
+<part name="SUPPLY39" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY40" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY41" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY42" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF38" name="IC2" library="InkTime_v5" deviceset="DRV2605YZFR_DRV2605YZFR" device="" value="DRV2605YZFR"/>
+<part name="SUPPLY43" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF32" name="C34" library="InkTime_v5" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="0.1uF"/>
+<part name="SUPPLY44" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF0C" name="C32" library="InkTime_v5" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
+<part name="SUPPLY45" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY46" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="TP_ON" library="InkTime_v5" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part name="TP_OP" library="InkTime_v5" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part uuid="0xABCDEF02" name="R5" library="InkTime_v5" deviceset="ERA-1AEB3401C_CPF0201D7K68C1" device="" value="10k"/>
+<part uuid="0xABCDEF0E" name="R7" library="InkTime_v5" deviceset="ERA-1AEB3401C_CPF0201D7K68C1" device="" value="10k"/>
+<part uuid="0xABCDEF04" name="R8" library="InkTime_v5" deviceset="ERA-1AEB3401C_CPF0201D7K68C1" device="" value="10k"/>
+<part uuid="0xABCDEF1C" name="C30" library="InkTime_v5" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
+<part uuid="0xABCDEF06" name="C31" library="InkTime_v5" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
+<part uuid="0xABCDEF08" name="C29" library="InkTime_v5" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="1uF"/>
+<part name="SW_UP" library="InkTime_v5" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
+<part uuid="0xABCDEF14" name="SW_ENT" library="InkTime_v5" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
+<part uuid="0xABCDEF1A" name="SW_DN" library="InkTime_v5" deviceset="2025-10-22_07-23-44_LIBRARY_EVP-AKE31A" device="SW_EVP-AKE31A_PAN"/>
+<part name="SUPPLY47" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY48" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY49" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF3C" name="U3" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_MAX17048G+T10" device="" value="MAX17048G+T10"/>
+<part name="SUPPLY50" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY51" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY52" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY53" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF3E" name="C27" library="InkTime_v5" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="0.1uF"/>
+<part name="SUPPLY54" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="TP_BAT_GND" library="InkTime_v5" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part name="TP_VBAT" library="InkTime_v5" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
+<part name="SUPPLY55" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF6E" name="J4" library="InkTime_v5" deviceset="KH-TYPE-C-16P_KH-TYPE-C-16P" device="" value="KH-TYPE-C-16P"/>
+<part uuid="0xABCDEF5E" name="R1_USB" library="InkTime_v5" deviceset="ERA-1AEB3401C_CPF0201D7K68C1" device="" value="5K1"/>
+<part name="SUPPLY56" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY57" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part name="SUPPLY58" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF96" name="R2_USB" library="InkTime_v5" deviceset="ERA-1AEB3401C_CPF0201D7K68C1" device="" value="5K1"/>
+<part name="SUPPLY59" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF6C" name="D3" library="InkTime_v5" deviceset="ESP32_C6_LIBRARY_3_USBLC6-2SC6Y" device="" value="USBLC6-2SC6Y"/>
+<part name="SUPPLY60" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF9A" name="C42" library="InkTime_v5" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="0.1uF"/>
+<part name="SUPPLY61" library="InkTime_v5" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
+<part uuid="0xABCDEF0A" name="C19" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
+<part uuid="0xABCDEF60" name="C17" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
+<part uuid="0xABCDEF40" name="C18" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
+<part uuid="0xABCDEF62" name="C5" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
+<part uuid="0xABCDEF68" name="C7" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
+<part uuid="0xABCDEF6A" name="C8" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
+<part uuid="0xABCDEF76" name="C9" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="820pF"/>
+<part uuid="0xABCDEF48" name="C3" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="1pF"/>
+<part uuid="0xABCDEF4A" name="C4" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="1pF"/>
+<part uuid="0xABCDEF44" name="C22" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="N.C."/>
+<part uuid="0xABCDEF72" name="C2" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
+<part uuid="0xABCDEF74" name="C1" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="12pF"/>
+<part uuid="0xABCDEF70" name="C11" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100pF"/>
+<part uuid="0xABCDEF7E" name="C10" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="N.C."/>
+<part uuid="0xABCDEF7A" name="C12" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="100nF"/>
+<part uuid="0xABCDEF78" name="C13" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="N.C."/>
+<part uuid="0xABCDEF7C" name="C16" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="47nF"/>
 <part name="EPD_C5" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_L" value="0.1uF/50V"/>
-<part name="C39" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="10uF"/>
-<part name="C24" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="10uF"/>
-<part name="C25" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="22uF"/>
-<part name="C33" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="22uF"/>
-<part name="C14" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
-<part name="C6" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
-<part name="C20" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
-<part name="C21" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
-<part name="C15" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="1.0µF"/>
-<part name="C1-EP-DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="10uF"/>
-<part name="C2-EP-DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7uF/25V"/>
-<part name="EPD_C2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C6" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C8" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C10" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C11" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="EPD_C12" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
-<part name="C43" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.wzybs_ZvR8qpzvPM3F49Tw" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7uF"/>
+<part name="C39" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ" deviceset="PERFECT_0402_CAP_0402" device="" value="10uF"/>
+<part name="C24" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ" deviceset="PERFECT_0402_CAP_0402" device="" value="10uF"/>
+<part name="C25" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ" deviceset="PERFECT_0402_CAP_0402" device="" value="22uF"/>
+<part name="C33" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ" deviceset="PERFECT_0402_CAP_0402" device="" value="22uF"/>
+<part name="C14" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
+<part name="C6" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
+<part uuid="0xABCDEF3A" name="C20" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
+<part name="C21" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7µF"/>
+<part name="C15" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1.0µF"/>
+<part name="C1-EP-DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ" deviceset="PERFECT_0402_CAP_0402" device="" value="10uF"/>
+<part name="C2-EP-DR" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7uF/25V"/>
+<part name="EPD_C2" library="InkTime_v5" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part name="EPD_C1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part name="EPD_C6" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part name="EPD_C7" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part name="EPD_C8" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part uuid="0xABCDEF16" name="EPD_C9" library="new_InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.bThMViGzTJemIPzQqDj0iw" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part name="EPD_C10" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part name="EPD_C11" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part name="EPD_C12" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ" deviceset="PERFECT_0402_CAP_0402" device="" value="1uF/50V"/>
+<part name="C43" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.vX5wmjY0RqGaybr4i_JXZQ" deviceset="PERFECT_0402_CAP_0402" device="" value="4.7uF"/>
 </parts>
 <sheets>
 <sheet>
@@ -4480,8 +4588,8 @@ IMU, SWD</text>
 <junction x="60.96" y="154.94"/>
 <junction x="60.96" y="157.48"/>
 <junction x="55.88" y="157.48"/>
-<pinref part="C24" gate="G$1" pin="2"/>
 <junction x="48.26" y="157.48"/>
+<pinref part="C24" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="TP_VREG" gate="G$1" pin="TP"/>
@@ -5888,13 +5996,13 @@ Protection</text>
 <wire x1="78.74" y1="50.8" x2="38.1" y2="50.8" width="0.1524" layer="91"/>
 <junction x="38.1" y="50.8"/>
 <pinref part="EPD_C5" gate="C$1" pin="1"/>
-<pinref part="EPD_C6" gate="G$1" pin="1"/>
-<pinref part="EPD_C7" gate="G$1" pin="1"/>
-<pinref part="EPD_C8" gate="G$1" pin="1"/>
 <pinref part="EPD_C9" gate="G$1" pin="1"/>
+<pinref part="EPD_C8" gate="G$1" pin="1"/>
+<pinref part="EPD_C7" gate="G$1" pin="1"/>
 <pinref part="EPD_C10" gate="G$1" pin="1"/>
-<pinref part="EPD_C11" gate="G$1" pin="1"/>
+<pinref part="EPD_C6" gate="G$1" pin="1"/>
 <pinref part="EPD_C12" gate="G$1" pin="1"/>
+<pinref part="EPD_C11" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="IC2" gate="G$1" pin="GND"/>
